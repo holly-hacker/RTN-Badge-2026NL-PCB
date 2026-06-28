@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Connector_USB_PCB_Edge") (type "KiCad") (uri "${KIPRJMOD}/libraries/PCB-Edge-USB-connector/footprints/Connector_USB_PCB_Edge.pretty") (options "") (descr ""))
+)

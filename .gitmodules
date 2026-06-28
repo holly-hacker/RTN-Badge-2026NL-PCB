@@ -1,0 +1,3 @@
+[submodule "libraries/PCB-Edge-USB-connector"]
+	path = libraries/PCB-Edge-USB-connector
+	url = https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library
