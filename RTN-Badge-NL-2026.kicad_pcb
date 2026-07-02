@@ -13873,7 +13873,7 @@
 		(property "Reference" "U2"
 			(at 0 2.828427 225)
 			(layer "F.SilkS")
-			(uuid "f1823545-d31b-494f-899e-205b22261d02")
+			(uuid "7d80756b-ce16-45fc-addb-0004c544d525")
 			(effects
 				(font
 					(size 1 1)
@@ -13884,7 +13884,7 @@
 		(property "Value" "XC6206PxxxMR"
 			(at 0 2.4 45)
 			(layer "F.Fab")
-			(uuid "f7f9363e-3610-4edb-aef9-ab0c9b363877")
+			(uuid "e51c86e8-a041-4701-9ae0-daa5fef25e16")
 			(effects
 				(font
 					(size 1 1)
@@ -13896,7 +13896,7 @@
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d4a08e9f-8460-45e8-9239-4658ab06ba3c")
+			(uuid "c8867374-d4b7-4be0-8d09-1f3d3994fbc2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13907,7 +13907,7 @@
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8d204d2-7d3a-41e4-a37d-de177b357d80")
+			(uuid "842448be-2572-479f-9a69-e63c9ea0392d")
 			(effects
 				(font
 					(size 1.27 1.27)

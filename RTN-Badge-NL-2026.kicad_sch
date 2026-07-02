@@ -5167,6 +5167,7 @@
 		)
 		(pin "18"
 			(uuid "39aa6122-0bba-4526-9834-4e2b1d1665a6")
+			(alternate "USBDP")
 		)
 		(pin "11"
 			(uuid "8e3633cf-240e-4858-9e17-c23b8b17485f")
@@ -5182,6 +5183,7 @@
 		)
 		(pin "17"
 			(uuid "e5912111-38ee-487c-a8ba-178dd149b1a6")
+			(alternate "USBDM")
 		)
 		(pin "16"
 			(uuid "e76a24b2-e523-4178-9440-1079b63413b2")
@@ -5203,6 +5205,7 @@
 		)
 		(pin "13"
 			(uuid "7fffc361-9a03-4cd6-b28a-5b4855218e88")
+			(alternate "SPI1_MOSI")
 		)
 		(instances
 			(project "RTN-Badge-NL-2026"
