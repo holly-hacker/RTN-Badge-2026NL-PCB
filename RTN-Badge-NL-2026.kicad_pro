@@ -60,10 +60,10 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.2,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
-          "pad_connection": 1,
+          "min_thickness": 0.2,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -81,10 +81,6 @@
         ],
         [
           "text_thickness|34880000|75000000|602a096e-dad5-471b-a326-38e15f8e58e2|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|38500000|56500000|66b6c151-a716-4759-9dce-3e261610cbde|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
