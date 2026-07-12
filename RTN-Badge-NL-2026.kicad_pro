@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,8 +52,8 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_radius": 1.0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
@@ -71,14 +71,6 @@
       },
       "diff_pair_dimensions": [],
       "drc_exclusions": [
-        [
-          "text_thickness|27500000|70500000|9df7ad89-9f1d-4515-a0c3-a8e93af82273|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "text_thickness|32000000|47000000|13dcb47f-35a2-4110-be8d-d6fe3fc1e850|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
         [
           "text_thickness|34880000|75000000|602a096e-dad5-471b-a326-38e15f8e58e2|00000000-0000-0000-0000-000000000000",
           ""
