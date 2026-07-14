@@ -93,7 +93,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -32694,6 +32693,72 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 71.65 27.75)
+		(end 71.95 29.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "169ef620-fddd-42b4-949e-0ef816cc075f")
+	)
+	(gr_rect
+		(start 71.65 32.75)
+		(end 71.95 34.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "b81c236b-2be3-4735-8030-0c426edd3807")
+	)
+	(gr_rect
+		(start 71.65 37.75)
+		(end 71.95 39.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "7e7332bc-5de8-4b39-8ddb-28da56977050")
+	)
+	(gr_rect
+		(start 76.65 27.75)
+		(end 76.95 29.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "b3bbdec0-2fa6-4825-b0e8-11456c78589c")
+	)
+	(gr_rect
+		(start 76.65 32.75)
+		(end 76.95 34.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "4ffb8e47-962e-4ebb-850f-aa09d54180ea")
+	)
+	(gr_rect
+		(start 81.65 27.75)
+		(end 81.95 29.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "d25f263b-2284-4336-9aa1-3799ba26c367")
 	)
 	(gr_rect
 		(start 25 25)
